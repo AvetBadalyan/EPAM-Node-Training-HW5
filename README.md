@@ -16,3 +16,5 @@ This project is a simple mortgage application processing system implemented in T
 3. **Rewrite all logic to TypeScript**:
    - Convert all existing JavaScript files to TypeScript.
    - Ensure type safety and proper use of TypeScript features.
+
+Readme updated to test 
